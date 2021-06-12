@@ -1,4 +1,4 @@
-# Vision-transformer
+# Awesome vision transformer
 A curated list of vision transformer related resources. Maintainers - Murufeng
 
 We are looking for a maintainer! Let me know (murufeng198@163.com) if interested.
