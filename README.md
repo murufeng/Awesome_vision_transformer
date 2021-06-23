@@ -66,9 +66,12 @@ Please feel free to pull requests or open an issue to add papers and source code
 - 待更新
 <a name="paper"></a>
 ### Paper(最新，最受关注的)
+- [Scaling Vision Transformers](https://arxiv.org/abs/2106.04560)
+- [CAT: Cross Attention in Vision Transformer](https://arxiv.org/abs/2106.05786)
 - - CoAtNet: Marrying Convolution and Attention for All Data Sizes
   - 作者单位：谷歌大佬;Zihang Dai, Hanxiao Liu, Quoc V. Le, Mingxing Tan
   - [paper](https://arxiv.org/abs/2106.04803)
+- [Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer](https://arxiv.org/abs/2106.03650)
 - [Container: Context Aggregation Network](https://arxiv.org/abs/2106.01401)
 - [Aggregating Nested Transformers](https://arxiv.org/abs/2105.12723)
 - [X-volution: On the unification of convolution and self-attention](https://arxiv.org/abs/2106.02253)
@@ -258,6 +261,7 @@ Please feel free to pull requests or open an issue to add papers and source code
 <a name="5.track"></a>
 #### 5.track
 - **[STGT]** [Spatial-Temporal Graph Transformer for Multiple Object Tracking](https://arxiv.org/abs/2104.00194)
+- [Transformer Tracking](https://arxiv.org/abs/2103.15436)
 - **[TransCenter]** [TransCenter: Transformers with Dense Queries for Multiple-Object Tracking](https://arxiv.org/abs/2103.15145)
 - **[TrackFormer]** [TrackFormer: Multi-Object Tracking with Transformers](https://arxiv.org/abs/2101.02702)
 - **[TransTrack]** TransTrack: Multiple-Object Tracking with Transformer
