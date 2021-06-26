@@ -58,14 +58,23 @@ Please feel free to pull requests or open an issue to add papers and source code
 <a name="论文解读"></a>
 
 ### 论文解读
+- [颜水成团队提出VOLO屠榜CV任务，无需额外训练数据，首次在ImageNet 上达到87.1%](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247510980&idx=1&sn=884b30ccdff2c6e7f44f0bc65c262199&chksm=fc4d1186cb3a989008b5cd276c6438edd39c36a82b7575d08ac2b9bf367be759d3fae16fd075&token=1173831238&lang=zh_CN#rd)
 - [分层级联Transformer！苏黎世联邦提出TransCNN: 显著降低了计算/空间复杂度！](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247509814&idx=2&sn=4f83ae4f12cf95b61b346b0effe45ea5&chksm=fc4d1d74cb3a9462a7cfdee53c5d9be59666ece6f1d836005d9f3d9da51a8dd113a66eff92f0&token=2050016138&lang=zh_CN#rd)
+- [登上更高峰！颜水成、程明明团队开源ViP，引入三维信息编码机制，无需卷积与注意力](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247510615&idx=3&sn=d0f60016ed9dc27624ffe092c3181a52&chksm=fc4d1015cb3a990371d8a9da87c93ed6711952b8cb14db9fc0e85f8ffc947465cf229d6e97c7&token=1173831238&lang=zh_CN#rd)
 - [清华鲁继文团队提出DynamicViT：一种高效的动态稀疏化Token的ViT](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247509696&idx=2&sn=1fe82423987a0519413782b830d469d4&chksm=fc4d1c82cb3a95943bee993c5363c47830b3d8e292d31aa93380b6f2721094740fe97c47679b&token=2050016138&lang=zh_CN#rd)
 - [并非所有图像都值16x16个词--- 清华&华为提出一种自适应序列长度的动态ViT](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247509514&idx=1&sn=c30c5514a76185038da274b4c6876289&chksm=fc4d1c48cb3a955eef07b72043e38a18828d6c7c784bd7560f97c66ede9fb7f67bc7e652712a&token=2050016138&lang=zh_CN#rd)
 - [注意力可以使MLP完全替代CNN吗？ 未来有哪些研究方向？](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247509411&idx=1&sn=20e63c8f160bc7929bc052455ea80603&chksm=fc4d1fe1cb3a96f73501568926cc5d7e7442f3bc466fb52ee606c27e316c3d0538f083908d7e&token=2050016138&lang=zh_CN#rd)
 - [超越Swin Transformer！谷歌提出了收敛更快、鲁棒性更强、性能更强的NesT](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247509059&idx=3&sn=1e0af034d262e7b24105dab2b6e348d2&chksm=fc4d1e01cb3a9717ceb25f7dc35cc1e91f1642862abfd0884699f007da902683457f54f8994c&token=2050016138&lang=zh_CN#rd)
-- 待更新
+- 
 <a name="paper"></a>
 ### Paper(最新，最受关注的)
+- [VOLO: Vision Outlooker for Visual Recognition]
+  - 论文链接: [https://arxiv.org/abs/2106.13112](https://arxiv.org/abs/2106.13112)
+  - 代码地址: [https://github.com/sail-sg/volo](https://github.com/sail-sg/volo)
+  - 作者团队:颜水成，冯佳时  无需任何额外训练数据，首次在ImageNet数据集上实现87.1%精度
+- [Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition ]
+    - paper链接：[https://arxiv.org/abs/2106.12368](https://arxiv.org/abs/2106.12368)
+    - 代码地址：[https://github.com/Andrew-Qibin/VisionPermutator](https://github.com/Andrew-Qibin/VisionPermutator)
 - [Scaling Vision Transformers](https://arxiv.org/abs/2106.04560)
 - [CAT: Cross Attention in Vision Transformer](https://arxiv.org/abs/2106.05786)
 - - CoAtNet: Marrying Convolution and Attention for All Data Sizes
