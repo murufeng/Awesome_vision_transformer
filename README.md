@@ -68,11 +68,11 @@ Please feel free to pull requests or open an issue to add papers and source code
 - 
 <a name="paper"></a>
 ### Paper(最新，最受关注的)
-- [VOLO: Vision Outlooker for Visual Recognition]
+- VOLO: Vision Outlooker for Visual Recognition
   - 论文链接: [https://arxiv.org/abs/2106.13112](https://arxiv.org/abs/2106.13112)
   - 代码地址: [https://github.com/sail-sg/volo](https://github.com/sail-sg/volo)
   - 作者团队:颜水成，冯佳时  无需任何额外训练数据，首次在ImageNet数据集上实现87.1%精度
-- [Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition ]
+- Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition
     - paper链接：[https://arxiv.org/abs/2106.12368](https://arxiv.org/abs/2106.12368)
     - 代码地址：[https://github.com/Andrew-Qibin/VisionPermutator](https://github.com/Andrew-Qibin/VisionPermutator)
 - [Scaling Vision Transformers](https://arxiv.org/abs/2106.04560)
