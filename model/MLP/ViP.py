@@ -1,3 +1,9 @@
+'''
+Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition
+链接：https://arxiv.org/abs/2106.12368
+官方代码:https://github.com/Andrew-Qibin/VisionPermutator
+'''
+
 import torch
 import torch.nn as nn
 
