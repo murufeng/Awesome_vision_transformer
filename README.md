@@ -376,6 +376,10 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 - gMLP 
 
+- Spatial shift($S^{2}) MLP
+
+- ViP(Vision Permute-MLP)
+
 <a name="attention"></a>
 ### Attention
 
