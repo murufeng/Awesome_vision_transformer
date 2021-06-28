@@ -77,7 +77,7 @@ Please feel free to pull requests or open an issue to add papers and source code
     - 代码地址：[https://github.com/Andrew-Qibin/VisionPermutator](https://github.com/Andrew-Qibin/VisionPermutator)
 - [Scaling Vision Transformers](https://arxiv.org/abs/2106.04560)
 - [CAT: Cross Attention in Vision Transformer](https://arxiv.org/abs/2106.05786)
-- - CoAtNet: Marrying Convolution and Attention for All Data Sizes
+- CoAtNet: Marrying Convolution and Attention for All Data Sizes
   - 作者单位：谷歌大佬;Zihang Dai, Hanxiao Liu, Quoc V. Le, Mingxing Tan
   - [paper](https://arxiv.org/abs/2106.04803)
 - [Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer](https://arxiv.org/abs/2106.03650)
@@ -119,6 +119,9 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 <a name="Local"></a>
 #### Local & Hierarchical & multi-scale
+- **[Twins]** Twins: Revisiting Spatial Attention Design in Vision Transformers
+  - [paper](https://arxiv.org/abs/2104.13840)
+  - [code](https://github.com/Meituan-AutoML/Twins)
 - [Scaling Vision Transformers](https://arxiv.org/abs/2106.04560)
 - **[GasHis-Transformer]** [GasHis-Transformer: A Multi-scale Visual Transformer Approach for Gastric Histopathology Image Classification](https://arxiv.org/abs/2104.14528) 
 - **[Vision Transformer]** An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (**ICLR**)
@@ -146,20 +149,17 @@ Please feel free to pull requests or open an issue to add papers and source code
   - [paper](https://arxiv.org/abs/2103.13413)
   - [code](https://github.com/intel-isl/DPT)
 - **[MViT]** [Mask Vision Transformer for Facial Expression Recognition in the wild](https://arxiv.org/abs/2106.04520)]
-- **[Twins]** Twins: Revisiting Spatial Attention Design in Vision Transformers
-  - [paper](https://arxiv.org/abs/2104.13840)
-  - [code](https://github.com/Meituan-AutoML/Twins)
 
 
 <a name="CNN"></a>
 #### Transformer+卷积结合
 - **[Shuffle Transformer]** [Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer](https://arxiv.org/abs/2106.03650)
-- **[ResT]** ResT: An Efficient Transformer for Visual Recognition
-  - [paper](https://arxiv.org/abs/2105.13677)
-  - [code](https://github.com/wofmanaf/ResT)
 - **[TransCNN]** Transformer in Convolutional Neural Networks\
   - [paper](https://arxiv.org/abs/2106.03180)
   - [code](https://github.com/yun-liu/TransCNN)
+- **[ResT]** ResT: An Efficient Transformer for Visual Recognition
+  - [paper](https://arxiv.org/abs/2105.13677)
+  - [code](https://github.com/wofmanaf/ResT)
 - **[CPVT]** Do We Really Need Explicit Position Encodings for Vision Transformers? 
    - [paper](https://arxiv.org/abs/2102.10882)
    - [code](https://github.com/Meituan-AutoML/CPVT)
