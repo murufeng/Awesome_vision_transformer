@@ -65,7 +65,7 @@ Please feel free to pull requests or open an issue to add papers and source code
 - [并非所有图像都值16x16个词--- 清华&华为提出一种自适应序列长度的动态ViT](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247509514&idx=1&sn=c30c5514a76185038da274b4c6876289&chksm=fc4d1c48cb3a955eef07b72043e38a18828d6c7c784bd7560f97c66ede9fb7f67bc7e652712a&token=2050016138&lang=zh_CN#rd)
 - [注意力可以使MLP完全替代CNN吗？ 未来有哪些研究方向？](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247509411&idx=1&sn=20e63c8f160bc7929bc052455ea80603&chksm=fc4d1fe1cb3a96f73501568926cc5d7e7442f3bc466fb52ee606c27e316c3d0538f083908d7e&token=2050016138&lang=zh_CN#rd)
 - [超越Swin Transformer！谷歌提出了收敛更快、鲁棒性更强、性能更强的NesT](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247509059&idx=3&sn=1e0af034d262e7b24105dab2b6e348d2&chksm=fc4d1e01cb3a9717ceb25f7dc35cc1e91f1642862abfd0884699f007da902683457f54f8994c&token=2050016138&lang=zh_CN#rd)
-- 
+
 <a name="paper"></a>
 ### Paper(最新，最受关注的)
 - VOLO: Vision Outlooker for Visual Recognition
@@ -84,6 +84,7 @@ Please feel free to pull requests or open an issue to add papers and source code
 - [Container: Context Aggregation Network](https://arxiv.org/abs/2106.01401)
 - [Aggregating Nested Transformers](https://arxiv.org/abs/2105.12723)
 - [X-volution: On the unification of convolution and self-attention](https://arxiv.org/abs/2106.02253)
+- [Video Swin Transformer](https://arxiv.org/abs/2106.13230)
 
 <a name="ViT系列变种"></a>
 #### ViT系列变种
@@ -280,9 +281,10 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 <a name="6.video"></a>
 #### 6.video
+- [Video Swin Transformer](https://arxiv.org/abs/2106.13230)
 - Anticipative Video Transformer
- - [paper](https://arxiv.org/abs/2106.02036)
- - [code](http://facebookresearch.github.io/AVT)
+  - [paper](https://arxiv.org/abs/2106.02036)
+  - [code](http://facebookresearch.github.io/AVT)
 - **[TimeSformer]** [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/abs/2102.05095)
 - **[VidTr]** [VidTr: Video Transformer Without Convolutions](https://arxiv.org/abs/2104.11746)
 - **[ViViT]** [ViViT: A Video Vision Transformer](https://arxiv.org/abs/2103.15691)
@@ -310,6 +312,7 @@ Please feel free to pull requests or open an issue to add papers and source code
 - **[BossNAS]** BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search 
   - [paper](https://arxiv.org/abs/2103.12424)
   - [code](https://github.com/changlin31/BossNAS)
+- [Vision Transformer Architecture Search](https://arxiv.org/abs/2106.13700)
 
 <a name="10.Face"></a>
 #### 10.人脸识别
