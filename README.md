@@ -18,6 +18,20 @@ Please feel free to pull requests or open an issue to add papers and source code
 - [Transformer模型压缩轻量化处理](#compress)
 - [DETR变种](#detr)
 
+#### [MLP系列]（#mlp）
+
+- [MLP-Mixer](https://github.com/murufeng/Awesome_vision_transformer/blob/main/model/MLP/MLP-Mixer.py)
+
+- [ResMLP](https://github.com/murufeng/Awesome_vision_transformer/blob/main/model/MLP/ResMLP-fb.py)
+
+- RepMLP
+
+- gMLP 
+
+- Spatial shift($S^{2}) MLP
+
+- ViP(Vision Permute-MLP)
+
 #### [Transformer+各类task迁移](#task)
 - [1.目标检测（Object-Detection）](#1.目标检测)
 - [2.超分辨率（Super-Resolution）](#2.超分辨率)
@@ -68,6 +82,7 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 <a name="paper"></a>
 ### Paper(最新，最受关注的)
+-  Faceboo提出 [Early Convolutions Help Transformers See Better](https://arxiv.org/abs/2106.14881)
 - VOLO: Vision Outlooker for Visual Recognition
   - 论文链接: [https://arxiv.org/abs/2106.13112](https://arxiv.org/abs/2106.13112)
   - 代码地址: [https://github.com/sail-sg/volo](https://github.com/sail-sg/volo)
@@ -77,9 +92,8 @@ Please feel free to pull requests or open an issue to add papers and source code
     - 代码地址：[https://github.com/Andrew-Qibin/VisionPermutator](https://github.com/Andrew-Qibin/VisionPermutator)
 - [Scaling Vision Transformers](https://arxiv.org/abs/2106.04560)
 - [CAT: Cross Attention in Vision Transformer](https://arxiv.org/abs/2106.05786)
-- CoAtNet: Marrying Convolution and Attention for All Data Sizes
+- [CoAtNet: Marrying Convolution and Attention for All Data Sizes](https://arxiv.org/abs/2106.04803)
   - 作者单位：谷歌大佬;Zihang Dai, Hanxiao Liu, Quoc V. Le, Mingxing Tan
-  - [paper](https://arxiv.org/abs/2106.04803)
 - [Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer](https://arxiv.org/abs/2106.03650)
 - [Container: Context Aggregation Network](https://arxiv.org/abs/2106.01401)
 - [Aggregating Nested Transformers](https://arxiv.org/abs/2105.12723)
