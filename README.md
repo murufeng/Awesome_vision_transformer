@@ -18,7 +18,7 @@ Please feel free to pull requests or open an issue to add papers and source code
 - [Transformer模型压缩轻量化处理](#compress)
 - [DETR变种](#detr)
 
-#### [MLP系列]（#mlp）
+#### [MLP系列]
 
 - [MLP-Mixer](https://github.com/murufeng/Awesome_vision_transformer/blob/main/model/MLP/MLP-Mixer.py)
 
@@ -28,7 +28,7 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 - gMLP 
 
-- Spatial shift($S^{2}) MLP
+- Spatial shift($S^{2}$) MLP
 
 - ViP(Vision Permute-MLP)
 
