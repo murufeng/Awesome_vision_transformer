@@ -82,6 +82,9 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 <a name="paper"></a>
 ### Paper(最新，最受关注的)
+- 超越Swin，Transformer屠榜三大视觉任务！微软推出新作：Focal Self-Attention [paper](https://arxiv.org/abs/2107.00641)
+- Multi-Scale Densenet续作？搞定Transformer降采样，清华联合华为开源动态ViT！ [paper](https://arxiv.org/abs/2105.15075)
+- CSWin Transformer：具有十字形窗口的视觉Transformer主干 [paper](https://arxiv.org/abs/2107.00652)
 -  Faceboo提出 [Early Convolutions Help Transformers See Better](https://arxiv.org/abs/2106.14881)
 - VOLO: Vision Outlooker for Visual Recognition
   - 论文链接: [https://arxiv.org/abs/2106.13112](https://arxiv.org/abs/2106.13112)
