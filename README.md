@@ -102,6 +102,23 @@ Please feel free to pull requests or open an issue to add papers and source code
 - [Aggregating Nested Transformers](https://arxiv.org/abs/2105.12723)
 - [X-volution: On the unification of convolution and self-attention](https://arxiv.org/abs/2106.02253)
 - [Video Swin Transformer](https://arxiv.org/abs/2106.13230)
+- [Dynamic Head: Unifying Object Detection Heads with Attentions](https://arxiv.org/abs/2106.08322)
+
+### 微软Transformer霸榜模型
+
+- **超越Swin，Transformer屠榜三大视觉任务！微软推出新作：Focal Self-Attention** 
+   - [paper](https://arxiv.org/abs/2107.00641)
+   - [code]()
+- **CSWin Transformer：具有十字形窗口的视觉Transformer主干(Swin Transformer 的进阶版) *
+   - [paper](https://arxiv.org/abs/2107.00652)
+   - [code]()
+- **[Dynamic Head: Unifying Object Detection Heads with Attentions](检测霸榜模型)**
+   - [paper](https://arxiv.org/abs/2106.08322)
+   - [code](https://github.com/microsoft/DynamicHead)
+- **[Swin Transformer]** Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+  - [paper](https://arxiv.org/abs/2103.14030)
+  - [code](https://github.com/microsoft/Swin-Transformer)
+
 
 <a name="ViT系列变种"></a>
 #### ViT系列变种
