@@ -82,6 +82,8 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 <a name="paper"></a>
 ### Paper(最新，最受关注的)
+- 华为诺亚提出CMT：卷积神经网络遇见视觉Transformer 
+ - paper : [CMT: Convolutional Neural Networks Meet Vision Transformers](https://arxiv.org/abs/2107.06263)
 - 超越Swin，Transformer屠榜三大视觉任务！微软推出新作：Focal Self-Attention [paper](https://arxiv.org/abs/2107.00641)
 - Multi-Scale Densenet续作？搞定Transformer降采样，清华联合华为开源动态ViT！ [paper](https://arxiv.org/abs/2105.15075)
 - CSWin Transformer：具有十字形窗口的视觉Transformer主干 [paper](https://arxiv.org/abs/2107.00652)
@@ -219,7 +221,6 @@ Please feel free to pull requests or open an issue to add papers and source code
   - [code](https://dynamicvit.ivg-research.xyz/)
 - **[DVT]** [Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length](https://arxiv.org/abs/2105.15075)
 - **[LeViT]** [LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference](https://arxiv.org/abs/2104.01136)
-
 
 <a name="detr"></a>
 ### DETR变种
