@@ -32,6 +32,8 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 - ViP(Vision Permute-MLP)
 
+- GFNet | MLP领域再发力，清华大学提出将FFT思想用于空间信息交互
+
 #### [Transformer+各类task迁移](#task)
 - [1.目标检测（Object-Detection）](#1.目标检测)
 - [2.超分辨率（Super-Resolution）](#2.超分辨率)
