@@ -24,15 +24,17 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 - [ResMLP](https://github.com/murufeng/Awesome_vision_transformer/blob/main/model/MLP/ResMLP-fb.py)
 
-- RepMLP
+- [RepMLP](https://arxiv.org/abs/2105.01883)
 
-- gMLP 
+- [gMLP](https://arxiv.org/abs/2105.08050) 
 
-- Spatial shift($S^{2}$) MLP
+- [Spatial shift($S^{2}$) MLP](https://arxiv.org/abs/2106.07477)
 
-- ViP(Vision Permute-MLP)
+- [ViP(Vision Permute-MLP)](https://arxiv.org/abs/2106.12368)
 
-- GFNet | MLP领域再发力，清华大学提出将FFT思想用于空间信息交互
+- [GFNet | MLP领域再发力，清华大学提出将FFT思想用于空间信息交互](https://arxiv.org/abs/2107.00645)
+
+- [CycleMLP: A MLP-like Architecture for Dense Prediction](https://arxiv.org/abs/2107.10224)
 
 #### [Transformer+各类task迁移](#task)
 - [1.目标检测（Object-Detection）](#1.目标检测)
@@ -74,6 +76,7 @@ Please feel free to pull requests or open an issue to add papers and source code
 <a name="论文解读"></a>
 
 ### 论文解读
+- [一文总结微软研究院Transformer霸榜模型三部曲](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247511722&idx=1&sn=8e73570336b2d67948a6bce5b55d9c0d&chksm=fc4d14e8cb3a9dfeac9f8322d250d1e043075df0717b2737ff8bc0f67c96ec5b029f7b876ce6&token=460758099&lang=zh_CN#rd)
 - [颜水成团队提出VOLO屠榜CV任务，无需额外训练数据，首次在ImageNet 上达到87.1%](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247510980&idx=1&sn=884b30ccdff2c6e7f44f0bc65c262199&chksm=fc4d1186cb3a989008b5cd276c6438edd39c36a82b7575d08ac2b9bf367be759d3fae16fd075&token=1173831238&lang=zh_CN#rd)
 - [分层级联Transformer！苏黎世联邦提出TransCNN: 显著降低了计算/空间复杂度！](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247509814&idx=2&sn=4f83ae4f12cf95b61b346b0effe45ea5&chksm=fc4d1d74cb3a9462a7cfdee53c5d9be59666ece6f1d836005d9f3d9da51a8dd113a66eff92f0&token=2050016138&lang=zh_CN#rd)
 - [登上更高峰！颜水成、程明明团队开源ViP，引入三维信息编码机制，无需卷积与注意力](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247510615&idx=3&sn=d0f60016ed9dc27624ffe092c3181a52&chksm=fc4d1015cb3a990371d8a9da87c93ed6711952b8cb14db9fc0e85f8ffc947465cf229d6e97c7&token=1173831238&lang=zh_CN#rd)
