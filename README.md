@@ -18,7 +18,7 @@ Please feel free to pull requests or open an issue to add papers and source code
 - [Transformer模型压缩轻量化处理](#compress)
 - [DETR变种](#detr)
 
-#### [MLP系列]
+#### MLP系列
 
 - [MLP-Mixer](https://github.com/murufeng/Awesome_vision_transformer/blob/main/model/MLP/MLP-Mixer.py)
 
@@ -88,7 +88,7 @@ Please feel free to pull requests or open an issue to add papers and source code
 <a name="paper"></a>
 ### Paper(最新，最受关注的)
 - 华为诺亚提出CMT：卷积神经网络遇见视觉Transformer 
- - paper : [CMT: Convolutional Neural Networks Meet Vision Transformers](https://arxiv.org/abs/2107.06263)
+   - paper : [CMT: Convolutional Neural Networks Meet Vision Transformers](https://arxiv.org/abs/2107.06263)
 - 超越Swin，Transformer屠榜三大视觉任务！微软推出新作：Focal Self-Attention [paper](https://arxiv.org/abs/2107.00641)
 - Multi-Scale Densenet续作？搞定Transformer降采样，清华联合华为开源动态ViT！ [paper](https://arxiv.org/abs/2105.15075)
 - CSWin Transformer：具有十字形窗口的视觉Transformer主干 [paper](https://arxiv.org/abs/2107.00652)
