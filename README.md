@@ -28,8 +28,8 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 - [gMLP](https://arxiv.org/abs/2105.08050) 
 
-- [Spatial shift($S^{2}$) MLP V1](https://arxiv.org/abs/2106.07477v1)
-- [Spatial shift($S^{2}$) MLP V2 ](https://arxiv.org/abs/2106.07477)
+- [Spatial shift($S^{2}$) MLP V1](https://arxiv.org/abs/2106.07477)
+- [S^2-MLPv2: Improved Spatial-Shift MLP Architecture for Vision](https://arxiv.org/abs/2108.01072)
 - [ViP(Vision Permute-MLP)](https://arxiv.org/abs/2106.12368) 
 - [GFNet | MLP领域再发力，清华大学提出将FFT思想用于空间信息交互](https://arxiv.org/abs/2107.00645) 
 - [CycleMLP: A MLP-like Architecture for Dense Prediction](https://arxiv.org/abs/2107.10224)  [Github](https://github.com/ShoufaChen/CycleMLP)
@@ -86,6 +86,13 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 <a name="paper"></a>
 ### Paper(最新，最受关注的)
+- Visual Parser: Representing Part-whole Hierarchies with Transformers -- 牛津大学
+- Crossformer: A versatile vision Transformer based on cross-scale attention 浙大&哥大
+- Contextual Transformer Networks for Visual Recognition - 京东AI梅涛团队
+- Rethinking and Improving Relative Position Encoding for Vision Transformer - 中山大学&微软
+- Local-to-Global Self-Attention in Vision Transformers -Inception Institute of Artificial Intelligence(IIAI)
+- Polarized Self-Attention: Towards High-quality Pixel-wise Regression -- 新的自注意力机制，屠榜分割任务
+- A Unified Efficient Pyramid Transformer for Semantic Segmentation - 李沐 Amazon & 复旦
 - 华为诺亚提出CMT：卷积神经网络遇见视觉Transformer 
    - paper : [CMT: Convolutional Neural Networks Meet Vision Transformers](https://arxiv.org/abs/2107.06263)
 - 超越Swin，Transformer屠榜三大视觉任务！微软推出新作：Focal Self-Attention [paper](https://arxiv.org/abs/2107.00641)
