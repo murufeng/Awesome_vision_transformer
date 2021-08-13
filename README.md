@@ -28,13 +28,12 @@ Please feel free to pull requests or open an issue to add papers and source code
 
 - [gMLP](https://arxiv.org/abs/2105.08050) 
 
-- [Spatial shift($S^{2}$) MLP](https://arxiv.org/abs/2106.07477)
-
-- [ViP(Vision Permute-MLP)](https://arxiv.org/abs/2106.12368)
-
-- [GFNet | MLP领域再发力，清华大学提出将FFT思想用于空间信息交互](https://arxiv.org/abs/2107.00645)
-
-- [CycleMLP: A MLP-like Architecture for Dense Prediction](https://arxiv.org/abs/2107.10224)
+- [Spatial shift($S^{2}$) MLP V1](https://arxiv.org/abs/2106.07477v1)
+- [Spatial shift($S^{2}$) MLP V2 ](https://arxiv.org/abs/2106.07477)
+- [ViP(Vision Permute-MLP)](https://arxiv.org/abs/2106.12368) 
+- [GFNet | MLP领域再发力，清华大学提出将FFT思想用于空间信息交互](https://arxiv.org/abs/2107.00645) 
+- [CycleMLP: A MLP-like Architecture for Dense Prediction](https://arxiv.org/abs/2107.10224)  [Github](https://github.com/ShoufaChen/CycleMLP)
+- [AS-MLP](https://arxiv.org/abs/2107.08391)
 
 #### [Transformer+各类task迁移](#task)
 - [1.目标检测（Object-Detection）](#1.目标检测)
