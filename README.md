@@ -2,7 +2,7 @@
 A curated list of vision transformer related resources, including survey, paper, source code, etc.
 Maintainer: Murufeng
 
-We are looking for a maintainer! Let me know (2923204420@qq.com) if interested.
+We are looking for a maintainer! Let me know if interested.
 
 Please feel free to pull requests or open an issue to add papers and source codes.
 
